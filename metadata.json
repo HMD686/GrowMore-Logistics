@@ -1,0 +1,6 @@
+{
+  "name": "A TO Z Logistic LLC - Truck Dispatch & Freight Logistics",
+  "description": "Professional truck dispatching solutions established in 2016. High-yield freight load booking, rate negotiation, broker communication, and dedicated dispatch support across the United States.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
